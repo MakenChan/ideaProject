@@ -14,7 +14,7 @@ import java.util.Properties;
 
 /**
  * @author CHEN XINGXING
- * @Description:用于读取配置文件
+ * :用于读取配置文件
  */
 public class ReadProperties {
 	/**

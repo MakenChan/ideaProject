@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  * @author CHEN XINGXING
- * @Description:字符串工具类
+ * :字符串工具类
  */
 public class FileUtil {
 	/**
